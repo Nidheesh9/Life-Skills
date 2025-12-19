@@ -1,5 +1,3 @@
-# Prevention of Sexual Harassment
-
 ## Question 1: What kinds of behaviour cause sexual harassment?
 
 Sexual harassment can happen in many ways, such as:
@@ -11,8 +9,6 @@ Sexual harassment can happen in many ways, such as:
 - Creating fear or discomfort by misusing authority, threatening, or pressuring others.
 - Staring in an uncomfortable way, whistling, winking, or using rude hand gestures.
 - Treating people unfairly at work (jobs, promotions, tasks) based on gender.
-
----
 
 ## Question 2: What would you do if you face or witness such behaviour?
 
